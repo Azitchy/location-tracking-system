@@ -64,7 +64,7 @@ function App() {
             <nav className="hidden md:flex space-x-6 text-gray-700">
               <a href="#" className="hover:text-indigo-600">Home</a>
               <a href="#" className="hover:text-indigo-600">Features</a>
-              <a href="#" className="hover:text-indigo-600">Pricing</a>
+              <a href="#" className="hover:text-indigo-600">Pricing list</a>
               <a href="#" className="hover:text-indigo-600">Contact us</a>
             </nav>
             <div className="md:hidden">{/* mobile menu placeholder */}</div>
